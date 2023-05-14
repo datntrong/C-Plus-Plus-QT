@@ -125,7 +125,7 @@ void MinHeap::MinHeapify(int i) {
 }
 
 // Driver program to test above functions
-int main() {
+int main_binaryheap() {
     MinHeap h(11);
     h.insertKey(3);
     h.insertKey(2);

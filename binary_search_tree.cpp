@@ -122,7 +122,7 @@ void Post(node *n) {
     }
 }
 
-int main() {
+int main_binary_search_tree() {
     queue.front = 0;
     queue.rear = 0;
     int value;
