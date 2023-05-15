@@ -20,6 +20,9 @@ SOURCES += \
         binaryheap.cpp \
         rabin_karp.cpp \
         knuth_morris_pratt.cpp \
+        disjoint_set.cpp \
+        linked_list.cpp \
+        
 
         
 
