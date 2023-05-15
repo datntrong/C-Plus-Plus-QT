@@ -18,6 +18,7 @@ SOURCES += \
         avltree.cpp \
         binary_search_tree.cpp \
         binaryheap.cpp \
+        rabin_karp.cpp \
         
         
 
