@@ -19,7 +19,8 @@ SOURCES += \
         binary_search_tree.cpp \
         binaryheap.cpp \
         rabin_karp.cpp \
-        
+        knuth_morris_pratt.cpp \
+
         
 
 
